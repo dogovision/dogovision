@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dogovision
+- 👀 I’m interested in lots of stuff
+- 🌱 I’m currently learning to develop using/for/with Odoo
+- 💞️ I’m looking to collaborate on all of the projects you have already and/or will have in the future.
+- 📫 Only 254 days left until the next summer.
